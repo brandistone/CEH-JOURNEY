@@ -18,7 +18,8 @@ This script performs a brute force attack on the login page of **OWASP Juice Sho
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bruteforce-juiceshop.git
+   git clone https://github.com/brandistone/CEH-JOURNEY.git
+
    cd bruteforce-juiceshop
    ```
 2. Install dependencies:
